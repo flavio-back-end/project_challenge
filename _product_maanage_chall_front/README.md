@@ -1,29 +1,20 @@
-# _product_maanage_challenger
+# vue-firebase-auth
 
-This template should help get you started developing with Vue 3 in Vite.
+Simple email / password authentication using **Vue** Javascript framework and **Firebase**
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+vue-firebase-auth is a web app that let you
 
-## Customize configuration
+- **login** into the system
+- **register** if you dont have an account
+- **log-out** once you're in
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Dependencies
 
-## Project Setup
+- **VueJS** framework
+- **Google Firebase**
 
-```sh
-npm install
-```
+### Executing program
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Visit this [link](https://vladpostu.github.io/vue-firebase-auth/)
