@@ -19,7 +19,7 @@
 export default {
   data() {
     return {
-      // Your existing data properties
+     
     };
   },
   methods: {
@@ -33,7 +33,6 @@ export default {
 };
 </script>
 <style scoped>
-/* Additional styling for the buttons */
 .button-container {
   display: flex;
   justify-content: center;
