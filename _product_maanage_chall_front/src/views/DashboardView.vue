@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- Your existing code for navbar and user information -->
 
     <div id="content">
       <h1>Dashboard</h1>
